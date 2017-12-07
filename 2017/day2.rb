@@ -1,5 +1,3 @@
-require 'pry'
-
 # The spreadsheet consists of rows of apparently-random numbers.
 # To make sure the recovery process is on the right track,
 # they need you to calculate the spreadsheet's checksum.
